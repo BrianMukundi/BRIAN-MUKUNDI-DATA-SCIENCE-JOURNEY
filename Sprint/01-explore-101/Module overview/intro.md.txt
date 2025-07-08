@@ -1,1 +1,0 @@
-In this module, we focus on developing essential data and spreadsheet skills, enabling us to effectively work with data to draw meaningful insights and make informed decisions. By exploring data in Google Sheets, we will learn how to retrieve, manipulate, analyze, and visualize data. This document provides you with an outline of what to expect for this module.
