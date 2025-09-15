@@ -9,9 +9,9 @@ Hi there! This repository documents my journey through the **ALX Data Career Pat
 | 📅 Date       | 📦 Module               | 📌 Status     |
 |--------------|------------------------|---------------|
 | 16 Jun 2025  | Explore 101            | ✅ Completed |
-| 30 Jun 2025  | Preparing Data         | ✅ In Progress|
-| 14 Jul 2025  | Querying Data          | 🔄 Upcoming |
-| 18 Aug 2025  | Visualizing Data       | 🔜 Upcoming  |
+| 30 Jun 2025  | Preparing Data         | ✅ Completed |
+| 14 Jul 2025  | Querying Data          | ✅ Completed |
+| 18 Aug 2025  | Visualizing Data       | ✅ In Progress|
 
 ---
 
@@ -27,4 +27,4 @@ Hi there! This repository documents my journey through the **ALX Data Career Pat
 - Python (Pandas, Numpy)
 - SQL (PostgreSQL, BigQuery)
 - Excel
-- Power BI/Tableau (coming soon)
+- Power BI
